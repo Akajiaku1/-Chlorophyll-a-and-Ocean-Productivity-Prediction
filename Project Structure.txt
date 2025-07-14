@@ -1,0 +1,15 @@
+Chlorophyll-a-and-Ocean-Productivity-Prediction/
+├── data/
+│   ├── raw/                # Raw satellite data
+│   └── processed/          # Processed data
+├── models/                 # Saved models
+├── notebooks/              # Jupyter notebooks
+│   └── exploratory_analysis.ipynb
+├── src/
+│   ├── data_download.py    # Data download script
+│   ├── preprocessing.py    # Data preprocessing
+│   ├── train_model.py      # Model training
+│   ├── predict.py          # Prediction script
+│   └── evaluation.py       # Model evaluation
+├── requirements.txt        # Python dependencies
+└── README.md

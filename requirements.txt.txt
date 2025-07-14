@@ -1,0 +1,7 @@
+numpy==1.26.4
+pandas==2.2.1
+xarray==2024.5.0
+scikit-learn==1.4.2
+netCDF4==1.6.5
+joblib==1.4.0
+requests==2.31.0
